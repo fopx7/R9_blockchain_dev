@@ -1,0 +1,63 @@
+# brownie-config.yaml - Configuration pour projet R9
+# Version corrigée sans doublons
+
+# Variables d'environnement
+dotenv: .env
+
+# Dépendances
+dependencies:
+  - OpenZeppelin/openzeppelin-contracts@4.8.0
+
+# Configuration du compilateur
+compiler:
+  solc:
+    version: 0.8.19
+    optimizer:
+      enabled: true
+      runs: 200
+    remappings:
+      - "@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.8.0"
+
+# Configuration des réseaux
+networks:
+  default: development
+  
+  # Configuration Ganache GUI (port 7545)
+  development:
+    host: http://127.0.0.1:7545
+    gas_limit: 6721975
+    gas_price: 20000000000
+    chainid: 1337
+    
+  # Configuration Ganache CLI alternative (port 8545)
+  ganache-local:
+    host: http://127.0.0.1:8545
+    gas_limit: 6721975
+    gas_price: 20000000000
+    chainid: 1337
+    
+  # Configuration pour tests rapides avec Ganache automatique
+  development-fork:
+    cmd: ganache
+    cmd_settings:
+      port: 8545
+      gas_limit: 12000000
+      accounts: 10
+      evm_version: istanbul
+      mnemonic: brownie
+    host: http://127.0.0.1:8545
+    timeout: 120
+
+# Configuration des rapports de test
+reports:
+  exclude_contracts:
+    - Mock*
+    - Test*
+    - migrations/*
+
+# Configuration pour les tests
+pytest:
+  markers:
+    - unit: Run unit tests
+    - integration: Run integration tests
+    - staging: Run staging tests
