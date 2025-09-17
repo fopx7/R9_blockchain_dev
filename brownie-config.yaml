@@ -1,45 +1,31 @@
-# brownie-config.yaml - Configuration pour projet R9 avec via-ir
+# brownie-config.yaml - Configuration R9 simplifiée
 
-# Variables d'environnement
-dotenv: .env
+project_structure:
+  build: build
+  contracts: contracts
+  scripts: scripts
+  tests: tests
 
-# Dépendances
-dependencies:
-  - OpenZeppelin/openzeppelin-contracts@4.8.0
-
-# Configuration du compilateur avec via-ir pour résoudre "Stack too deep"
 compiler:
   solc:
     version: 0.8.19
     optimizer:
       enabled: true
       runs: 200
-    # AJOUT: Configuration via-ir pour les contrats complexes
-    viaIR: true
-    remappings:
-      - "@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.8.0"
 
-# Configuration des réseaux
 networks:
   default: development
   
-  # Configuration Ganache GUI (port 7545)
   development:
-    host: http://127.0.0.1:7545
-    gas_limit: 6721975
-    gas_price: 20000000000
-    chainid: 1337
-    
-  # Configuration Ganache CLI alternative (port 8545)
-  ganache-local:
     host: http://127.0.0.1:8545
     gas_limit: 6721975
+    gas_buffer: 1.1
     gas_price: 20000000000
-    chainid: 1337
+    
+  ganache-local:
+    host: http://127.0.0.1:7545
+    gas_limit: 6721975
+    gas_buffer: 1.1
+    gas_price: 20000000000
 
-# Configuration des rapports de test
-reports:
-  exclude_contracts:
-    - Mock*
-    - Test*
-    - migrations/*
+dotenv: .env

@@ -1,0 +1,15 @@
+{
+  "NOM": "mrgmczstgipqphwd",
+  "ID": "7206602752700877",
+  "ID_maquette": "267838027072",
+  "Longueur_m": 50.0,
+  "Caracteristique_Materiau": "431",
+  "Materiau": "bois",
+  "Statut usage": "reemploye",
+  "Date de fabrication": "17 11 1997",
+  "date mise en service": "14 09 1990",
+  "Date de réemploye": "09 09 2005",
+  "Empreinte Carbonne": 10.74,
+  "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+  "hash_json": "996269dec5c821c515048bf6f4d3f577717fb66d7ac4d78b2c4d7d224a3d42e1"
+}

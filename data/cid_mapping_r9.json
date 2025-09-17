@@ -1,0 +1,390 @@
+{
+  "metadata": {
+    "projet": "R9_blockchain_bim",
+    "version": "2.0",
+    "timestamp_creation": 1758044994,
+    "date_creation": "2025-09-16T19:49:54.307632",
+    "extracteur_version": "5.2",
+    "statistiques": {
+      "objets_json_uploaded": 26,
+      "objets_ifc_uploaded": 26,
+      "maquettes_uploaded": 1,
+      "erreurs": [],
+      "temps_total": 0,
+      "cout_total_bytes": 18062881
+    }
+  },
+  "objets": {
+    "1199361378023951": {
+      "nom": "jvkhwptvjxxhasoe",
+      "materiau": "polyurethane",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreicqprqlnrkbpv6wwgyn4v4gpytynytroe4aazl27gzw2hs7liqury",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "f1bcfcb71ca216cfa070473ad36282f6262959c8e9942c13fd434f5f1ca06652",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044928,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreicqprqlnrkbpv6wwgyn4v4gpytynytroe4aazl27gzw2hs7liqury",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "1338420048586450": {
+      "nom": "evngbmzmoaqmkulm",
+      "materiau": "acier",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreiclqpbwlutljrgrlf3qs55ts3misft4vtsnxv7qbotagppvtvh2oy",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "daeeb79cb87e3ff28910b9c040d01596d273a46ec8e845b255776c66952bb726",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044930,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreiclqpbwlutljrgrlf3qs55ts3misft4vtsnxv7qbotagppvtvh2oy",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "1453611113150953": {
+      "nom": "kvzbdcludzzzzdcy",
+      "materiau": "bois",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreiadn4oskypqrfuk6ruuaxlo6xaqdjmhovrjiaeplxr27nymz7nxhq",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "8d8397f483a0d95503b18b5c13d8900e22fff5192c6996fe4f3cee841a528881",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044933,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreiadn4oskypqrfuk6ruuaxlo6xaqdjmhovrjiaeplxr27nymz7nxhq",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "2093498434080876": {
+      "nom": "ijjfwsxcbctmhlkj",
+      "materiau": "acier",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreiedofnepvwnnkoqidecjgotwiigcfzkabdassupibgymheau6aj3q",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "a3d506f46949b6d4d713914ef8339bd85f6892a6134ba9bc4b9cc93578711180",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044935,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreiedofnepvwnnkoqidecjgotwiigcfzkabdassupibgymheau6aj3q",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "2288756342135828": {
+      "nom": "mtpizqcdambqqtbs",
+      "materiau": "verre",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreig5csbbvw5hg7def7uipuzkve5xkgvuwxg7m4ryqvjsgtix53bqr4",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "fff622e797bd9e1bbdd90b17aada08322dfdeea7e362b4d410687b82a304623d",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044938,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreig5csbbvw5hg7def7uipuzkve5xkgvuwxg7m4ryqvjsgtix53bqr4",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "2346568298865877": {
+      "nom": "ewjjelncprowvkmm",
+      "materiau": "CLT",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreida2yaiwahrly66mkmfl64xkyp24tjevwtnbcj5lawfwzdbuz4oti",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "a49ebd6b349ad803af07bcbcb1d66e1349a42e0a1371397a115d74647db0c0dd",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044940,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreida2yaiwahrly66mkmfl64xkyp24tjevwtnbcj5lawfwzdbuz4oti",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "2466716811011479": {
+      "nom": "lyrslggagqxuetel",
+      "materiau": "polyurethane",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreiajginrmhahqkisl2ff7cyudeymk2f3bo7folzpp4hb7jmvu6jcqe",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "fcdc26539c596b91804d7055596d4451c808de1880ec9f948e4641269765d9e2",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044943,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreiajginrmhahqkisl2ff7cyudeymk2f3bo7folzpp4hb7jmvu6jcqe",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "2759767924437292": {
+      "nom": "hlhrrysmudhliaxv",
+      "materiau": "verre",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreiefdhnyvoe6mpoaxgpfitczbf3oixcqp6mjecsev7mohpi43n3djq",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "4e867d7cd76a9148ed841f9ff9741ada5570a1dd4967d39def4682d075c23584",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044945,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreiefdhnyvoe6mpoaxgpfitczbf3oixcqp6mjecsev7mohpi43n3djq",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "2963380741217463": {
+      "nom": "bnrkmsrwdbrygjwe",
+      "materiau": "bois",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreiaei6gf4mygxr4kqczeqd5wf4wydjwgh7safhgkyyqyx7lg5wlyv4",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "568d566ccecd58817e407ff2ab616f095a87ae08b1895668b0330fda5bd39b7b",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044948,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreiaei6gf4mygxr4kqczeqd5wf4wydjwgh7safhgkyyqyx7lg5wlyv4",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "3230190049660913": {
+      "nom": "cnnnniouuperopzf",
+      "materiau": "CLT",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreigeulso3prhtypctprozixohhebiw57nokvgjs57rjkldahudkl2a",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "1085ced898d2927d15f5a316aca8c252f5b659706196c634ca70435144479df2",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044950,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreigeulso3prhtypctprozixohhebiw57nokvgjs57rjkldahudkl2a",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "3295526581978961": {
+      "nom": "pgqvwxgdfhhvhbfc",
+      "materiau": "acier",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreiezh52qkh2slcdnp5gm2ng255xbbnkvgbgdueljij74aydx4zi23m",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "c875b774ba6d80907a98f5ba1a372197cbdb96de9b309946037f6f254c3cbc8c",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044953,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreiezh52qkh2slcdnp5gm2ng255xbbnkvgbgdueljij74aydx4zi23m",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "4361378452725961": {
+      "nom": "qiukgnmpiindbhaq",
+      "materiau": "fibre de verre",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreie5izmluxcfhen2dwgxqhqu5jouneaq5rma6bx7f3vzitpm6ekghy",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "a7539fbf875fffe9737829cd2ef8855c2d76ea3eabb5cdeaf78ba16368bde9f2",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044955,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreie5izmluxcfhen2dwgxqhqu5jouneaq5rma6bx7f3vzitpm6ekghy",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "4712524684627961": {
+      "nom": "aiuhnmnmezvnlzlr",
+      "materiau": "bois",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreic77n3fzvmqpparcby3mkbebsycpvb4wr2dbn5gkvxpvceltoxngm",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "d4e6855cfd8e7b1fefcf5f975dfa4005eb1a7eebfa2248fd28551aaeffe561fe",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044958,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreic77n3fzvmqpparcby3mkbebsycpvb4wr2dbn5gkvxpvceltoxngm",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "4985818407082159": {
+      "nom": "wsubghaicqgvvnop",
+      "materiau": "acier",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreic57ibwopmauqpyh3jndtemiw2xm4mhcyimiqrktfibu2dgkccm2i",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "bebf146979945071c9400a29d9b1e6c09d510184a23cbf1ecc4e10364b0229f3",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044961,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreic57ibwopmauqpyh3jndtemiw2xm4mhcyimiqrktfibu2dgkccm2i",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "5282033937464379": {
+      "nom": "lnrvuchgultufjjd",
+      "materiau": "fibre de verre",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreibyxuq7luxw22nz5okhkiznsjetuvyhbkboz55x7hvzlbity6zqza",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "512d5a36cb0e0b57b1648529b6c608296efb34ce048cdfacf9ac98db5b07b207",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044963,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreibyxuq7luxw22nz5okhkiznsjetuvyhbkboz55x7hvzlbity6zqza",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "5938941124716237": {
+      "nom": "fmwwuzqtpsugalex",
+      "materiau": "CLT",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreicqbcm4alqtkphtfhjqhb3lr4mo6kmclursr6w4yhhkxrponga4pq",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "e76f90d6859dc17202546ad1fa29e89bfedc48804c2a32cedbbce27dd195ab7e",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044966,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreicqbcm4alqtkphtfhjqhb3lr4mo6kmclursr6w4yhhkxrponga4pq",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "6015897961421129": {
+      "nom": "bckfykjxrzrxqueb",
+      "materiau": "acier",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreiearl6plpqhynu4jnpb2c37qdltdtoo2bv4ionkmyeoq6yanyat6e",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "229d5d095104325219081fbe832e1ae16fc1e4dfdfc6130b115f65d136cd0392",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044968,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreiearl6plpqhynu4jnpb2c37qdltdtoo2bv4ionkmyeoq6yanyat6e",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "6395416390831226": {
+      "nom": "omdlvyicvfxrubva",
+      "materiau": "verre",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreihc2f54lq5srpxewgmv7kconf2dcep5afiz65l7ryhhyxbcrofwcq",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "95589dcb08c9f04b558657613f1b5b0ab0777b1ffda0916c8803c82aba5e9492",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044971,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreihc2f54lq5srpxewgmv7kconf2dcep5afiz65l7ryhhyxbcrofwcq",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "6808327103291628": {
+      "nom": "aulzdoyncrwbsxeo",
+      "materiau": "polyurethane",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreiczhqfjs6qyzkbny4hbk7cue7b3b5iebjlb2z6hp7xwvvntxmgcqa",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "f2a8d64a445b1552c3808438370e184176b2b146e8556dec1ad736d582719de4",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044974,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreiczhqfjs6qyzkbny4hbk7cue7b3b5iebjlb2z6hp7xwvvntxmgcqa",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "6961947738654094": {
+      "nom": "hsvljkglzrbsgblt",
+      "materiau": "bois",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreiavdiso3vebgd7lsfr7axmwbnzhsstjy4pejh57twsgwdjrmhcune",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "7be69b20192c7695b3f22c430f8d229b7641757f3a3d1795788d2e00bb16f4d2",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044976,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreiavdiso3vebgd7lsfr7axmwbnzhsstjy4pejh57twsgwdjrmhcune",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "7206602752700877": {
+      "nom": "mrgmczstgipqphwd",
+      "materiau": "bois",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreid35zkpl5egxv43tnbg4v5g4mew4jfhtebfveukxfuampruz67izy",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "996269dec5c821c515048bf6f4d3f577717fb66d7ac4d78b2c4d7d224a3d42e1",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044979,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreid35zkpl5egxv43tnbg4v5g4mew4jfhtebfveukxfuampruz67izy",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "7685991625477264": {
+      "nom": "gbsygyfieaphlhcs",
+      "materiau": "CLT",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreicftzci7urduo52k7vaa3pywp37zq6tqmkqrh5o5thjtz6jda7o4y",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "15e3ee8794546378c537affb8a7c3e838f9f652c91793d06749837149975f5a2",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044981,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreicftzci7urduo52k7vaa3pywp37zq6tqmkqrh5o5thjtz6jda7o4y",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "9289295477878791": {
+      "nom": "hubifwayglfvufgi",
+      "materiau": "verre",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreihg2griu7bin47krebay2nrirazj5fchb2zdenwo2wxyozbwoiuzm",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "95c90ee138491c082cefff9d103598c7feb0c0c4e6be6623f8dd8da17c0adf7e",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044984,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreihg2griu7bin47krebay2nrirazj5fchb2zdenwo2wxyozbwoiuzm",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "9854515642009759": {
+      "nom": "xhwlvptwbllxdihv",
+      "materiau": "polyurethane",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreibkduzoc3dur5erkt5igvtkt4h5dsqjaljbjh7fkm2r2x6v3d2yre",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "bd6d623c4378a28f132bc143840c8cd2669cc6e82800737bd4ea7a689315d87b",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044986,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreibkduzoc3dur5erkt5igvtkt4h5dsqjaljbjh7fkm2r2x6v3d2yre",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    },
+    "9979136962022313": {
+      "nom": "sjjvzxvbuwiuhrut",
+      "materiau": "verre",
+      "id_maquette": "267838027072",
+      "cid_json": "bafkreighd2nnlcg5j4wr3eoaezjzdrmazgscww44lthnennlrme67yt52m",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_json": "c1ef6ebab09eb1aab0075c7094f4653eb5ce30ac2366a37aaf5f0b1264518c4e",
+      "hash_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044989,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreighd2nnlcg5j4wr3eoaezjzdrmazgscww44lthnennlrme67yt52m",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    }
+  },
+  "maquettes": {
+    "267838027072": {
+      "nom_maquette": "defrg",
+      "nom_architecte": "defgh",
+      "programme": "defrgv",
+      "cid_json": "bafkreibgolrzx4ffx2j5s24t7sgmlymkqziobvi7xrvt6x6dgzboj2hj7q",
+      "cid_ifc": "bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m",
+      "hash_maquette_json": "12d1afd279e8437a1770c7541346fd53863687ec7fc298662e4ab9f455f97b42",
+      "hash_maquette_ifc": "6424a24de3c98ae6985acd2ba594a734aeccbbf3690992b97b327ac25c663921",
+      "timestamp_upload": 1758044992,
+      "urls": {
+        "json": "https://gateway.pinata.cloud/ipfs/bafkreibgolrzx4ffx2j5s24t7sgmlymkqziobvi7xrvt6x6dgzboj2hj7q",
+        "ifc": "https://gateway.pinata.cloud/ipfs/bafybeibctbxofocvwb3tlxpg323e3qswhos2ttcltiumpewevj4yxxav3m"
+      }
+    }
+  },
+  "smart_contract_data": {
+    "total_objets": 25,
+    "total_maquettes": 1,
+    "ready_for_deployment": true
+  }
+}
