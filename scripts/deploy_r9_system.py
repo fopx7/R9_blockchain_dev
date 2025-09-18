@@ -109,55 +109,55 @@ def main():
     
     return contract
 
-def demo_material_registration(contract, deployer):
-    """Démo d'enregistrement d'un matériau du projet Diogène"""
-    
-    print(f"\n📦 === DEMO MATÉRIAU DIOGÈNE ===")
-    
-    # Matériau de test du projet Diogène
-    material_data = {
-        "materialId": "1111111111111111",
-        "name": "Poutre IPE 200 Diogène", 
-        "materialType": "acier",
-        "status": "réemployé",
-        "length_mm": 12230,  # 12.23m
-        "carbonFootprint_cg": 40000,  # 400kg
-        "ipfsHashJson": "QmDiogeneTestJSON...",
-        "ipfsHashIfc": "QmDiogeneTestIFC...",
-        "integrityHash": "0x1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef"
-    }
-    
-    try:
-        print(f"📥 Enregistrement: {material_data['name']}")
+    def demo_material_registration(contract, deployer):
+        """Démo d'enregistrement d'un matériau du projet Diogène"""
         
-        tx = contract.registerMaterial(
-            material_data["materialId"],
-            material_data["name"],
-            material_data["materialType"],
-            material_data["status"],
-            material_data["length_mm"],
-            material_data["carbonFootprint_cg"],
-            material_data["ipfsHashJson"],
-            material_data["ipfsHashIfc"],
-            bytes.fromhex(material_data["integrityHash"][2:]),
-            {'from': deployer, 'gas_limit': 500000}
-        )
+        print(f"\n📦 === DEMO MATÉRIAU DIOGÈNE ===")
         
-        print(f"  ✅ Matériau enregistré - TX: {tx.txid[:10]}...")
-        print(f"  💸 Gas: {tx.gas_used:,}")
+        # Matériau de test du projet Diogène
+        material_data = {
+            "materialId": "1111111111111111",
+            "name": "Poutre IPE 200 Diogène", 
+            "materialType": "acier",
+            "status": "réemployé",
+            "length_mm": 12230,  # 12.23m
+            "carbonFootprint_cg": 40000,  # 400kg
+            "ipfsHashJson": "QmDiogeneTestJSON...",
+            "ipfsHashIfc": "QmDiogeneTestIFC...",
+            "integrityHash": "0x1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef"
+        }
         
-        # Vérification
-        stored_material = contract.getMaterial(material_data["materialId"])
-        print(f"  🔍 Vérification: {stored_material[1]} - {stored_material[2]}")
-        
-        # Test de recherche
-        steel_materials = contract.getMaterialsByType("acier")
-        print(f"  🔍 Matériaux acier trouvés: {len(steel_materials)}")
-        
-        print(f"  ✅ Test matériau Diogène réussi !")
-        
-    except Exception as e:
-        print(f"  ❌ Erreur enregistrement matériau: {e}")
+        try:
+            print(f"📥 Enregistrement: {material_data['name']}")
+            
+            tx = contract.registerMaterial(
+                material_data["materialId"],
+                material_data["name"],
+                material_data["materialType"],
+                material_data["status"],
+                material_data["length_mm"],
+                material_data["carbonFootprint_cg"],
+                material_data["ipfsHashJson"],
+                material_data["ipfsHashIfc"],
+                bytes.fromhex(material_data["integrityHash"][2:]),
+                {'from': deployer, 'gas_limit': 500000}
+            )
+            
+            print(f"  ✅ Matériau enregistré - TX: {tx.txid[:10]}...")
+            print(f"  💸 Gas: {tx.gas_used:,}")
+            
+            # Vérification
+            stored_material = contract.getMaterial(material_data["materialId"])
+            print(f"  🔍 Vérification: {stored_material[1]} - {stored_material[2]}")
+            
+            # Test de recherche
+            steel_materials = contract.getMaterialsByType("acier")
+            print(f"  🔍 Matériaux acier trouvés: {len(steel_materials)}")
+            
+            print(f"  ✅ Test matériau Diogène réussi !")
+            
+        except Exception as e:
+            print(f"  ❌ Erreur enregistrement matériau: {e}")
 
 # Point d'entrée pour exécution directe
 if __name__ == "__main__":
